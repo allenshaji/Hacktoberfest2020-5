@@ -21,5 +21,5 @@ If you have any questions about this or participating in Hacktoberfest, please c
 Happy Hacking,
 The Hacktoberfest Team
 
-Hacktoberfest is presented by DigitalOcean, Intel and DEV.
+Hacktoberfest is presented by DigitalOcean, Intel and DEV!
 
